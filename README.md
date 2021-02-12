@@ -1,5 +1,6 @@
 # Prodaja nepremičnin
 Analiziral bom vnose nepremičnin na prodaj na spletnem portalu [nepremicnine.net](https://www.nepremicnine.net/oglasi-prodaja/)
+Podatki so bili zajeti dne 11.11.2020.
 ## Zajeti podatki
 Pri zajemanju podatkov se bom omejil na hiše zgrajene v Sloveniji, za vsako pa bom zajel:
 - njen id
