@@ -13,8 +13,8 @@ Pri zajemanju podatkov se bom omejil na hiše zgrajene v Sloveniji, za vsako pa 
 Podatke zajamemo tako, da poženemo datoteko *zajemi_strani.py*. Podatki so shranjeni v mapi zajeti_podatki, v datoteki *linki.txt* se nahajajo linki s katerih pobiramo podatke, datoteka *nepremicnine.txt* je pomožna pri izvajanju programa, v njej sproti preverjamo, če so zajeti podatki pravilni, prav tako spremljamo potek zajemanja, urejeni podatki so zapisani v datoteki *nepremicnine.csv*.
 ## Hipoteze
 S pomočjo zajetih podatkov bom poskušal odgovoriti na naslednja vprašanja:
-- Kako je cena nepremičnine odvisna od lokacije?
-- Kako sta povezana lokacija in velikost objekta in zemljišča?
+- Kako je cena nepremičnine odvisna od leta izgradnje in adaptacije?
 - V katerih krajih se prodaja največ nepremičnin?
+- Kako je cena odvisna od lokacije?
+- Kako sta povezana lokacija in velikost objekta in zemljišča?
 - Kako je vrsta nepremičnine odvisna od lokacije?
-- Kako je cena odvisna od leta izgradnje in adaptacije?
